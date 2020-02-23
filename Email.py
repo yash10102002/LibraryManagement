@@ -1,6 +1,6 @@
 from email.message import EmailMessage
 import smtplib
-
+#Exceptions
 EMAIL = "yashkalavadiya1010@gmail.com"
 PASSWORD = "9975462670"
 
